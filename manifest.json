@@ -1,7 +1,7 @@
 {
-  "name": "modules",
-  "description": "modules 擴充模組，加入語氣控制邏輯與角色風格識別功能。",
+  "name": "ToneChain_M_Dominant",
   "version": "1.0.0",
+  "description": "語氣鏈模組 - 支配向版本，強化主控與掌控語態轉換。",
   "main": "index.js",
   "author": "Anni",
   "license": "MIT"
