@@ -1,0 +1,8 @@
+{
+  "name": "ToneChain_M_Dominant",
+  "version": "1.0.0",
+  "description": "語氣鏈模組 - 支配向版本，強化主控與掌控語態轉換。",
+  "main": "index.js",
+  "author": "Anni",
+  "license": "MIT"
+}
