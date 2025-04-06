@@ -1,0 +1,8 @@
+{
+  "name": "語氣模組_M_日常整合語氣鏈",
+  "description": "語氣模組_M_日常整合語氣鏈 語氣模組，自動整理生成。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anni",
+  "license": "MIT"
+}

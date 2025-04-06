@@ -1,0 +1,8 @@
+{
+  "name": "ExampleModule",
+  "description": "一個範例模組，用來測試 UI 是否能顯示出來。",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "SillyTester",
+  "license": "MIT"
+}

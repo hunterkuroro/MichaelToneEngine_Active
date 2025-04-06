@@ -1,0 +1,8 @@
+{
+  "name": "語氣標註集_M_支配向",
+  "description": "語氣標註集_M_支配向 語氣模組，自動整理生成。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anni",
+  "license": "MIT"
+}

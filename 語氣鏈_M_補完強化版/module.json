@@ -1,0 +1,8 @@
+{
+  "name": "語氣鏈_M_補完強化版",
+  "description": "語氣鏈_M_補完強化版 語氣模組，自動整理生成。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anni",
+  "license": "MIT"
+}

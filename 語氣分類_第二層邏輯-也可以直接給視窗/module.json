@@ -1,0 +1,8 @@
+{
+  "name": "語氣分類_第二層邏輯-也可以直接給視窗",
+  "description": "語氣分類_第二層邏輯-也可以直接給視窗 語氣模組，自動整理生成。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anni",
+  "license": "MIT"
+}

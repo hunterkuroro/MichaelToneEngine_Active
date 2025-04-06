@@ -1,0 +1,8 @@
+{
+  "name": "整合語氣模組_日常向_動作_語氣_節奏_語句",
+  "description": "整合語氣模組_日常向_動作_語氣_節奏_語句 語氣模組，自動整理生成。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anni",
+  "license": "MIT"
+}

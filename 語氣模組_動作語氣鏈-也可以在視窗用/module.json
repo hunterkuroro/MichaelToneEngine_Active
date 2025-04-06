@@ -1,0 +1,8 @@
+{
+  "name": "語氣模組_動作語氣鏈-也可以在視窗用",
+  "description": "語氣模組_動作語氣鏈-也可以在視窗用 語氣模組，自動整理生成。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anni",
+  "license": "MIT"
+}

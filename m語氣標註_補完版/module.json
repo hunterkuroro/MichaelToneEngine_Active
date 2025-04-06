@@ -1,0 +1,8 @@
+{
+  "name": "m語氣標註_補完版",
+  "description": "m語氣標註_補完版 語氣模組，自動整理生成。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anni",
+  "license": "MIT"
+}
